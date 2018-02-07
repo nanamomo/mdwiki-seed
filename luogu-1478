@@ -6,3 +6,11 @@ int main()
   return 0;
 }
 ```
+
+
+```javascript
+var hello = function () {
+    // say hello
+    alert('Hello world!');
+}
+```
